@@ -15,3 +15,7 @@
 😈[OniRyu](https://github.com/Oniryu95) - Software Engineer
 
 🙈[Hugene](https://github.com/Hugene) - Software Engineer
+
+🎼[Arwel](https://github.com/Arwel05) - Sound Engineer
+
+🦄[JosKul](https:/github.com/josKull) - Concept Artist
