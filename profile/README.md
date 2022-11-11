@@ -12,4 +12,4 @@
 
 😈[OniRyu](https://github.com/Oniryu95) - Software Engineer
 
-🙈[Hugene](httsps://github.com/Hugene) - Software Engineer
+🙈[Hugene](https://github.com/Hugene) - Software Engineer
