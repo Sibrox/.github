@@ -2,9 +2,11 @@
 
 
 ## Our products
-🐸[King Frog Riddle](https://play.google.com/store/apps/details?id=com.Sibrox.KingFrogsRiddle&hl=en&gl=US) - Mobile Game inspired by Prof. Layton
+🐸  [King Frog Riddle](https://play.google.com/store/apps/details?id=com.Sibrox.KingFrogsRiddle&hl=en&gl=US) - Mobile Game inspired by Prof. Layton
 
 ⬡ [Hexagon Glass](https://github.com/Sibrox/HexagonGlass) - Mobile Game mixing Sudoku and Minesweeper
+
+🏆 [Gold Digger](https://github.com/Sibrox/gold-digger) - GameOff 2022
 
 ## Team
 
